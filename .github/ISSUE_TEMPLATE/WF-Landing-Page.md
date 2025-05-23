@@ -1,4 +1,6 @@
 ---
+name: WF-Landing-Page
+about: Es soll eine landing-page entstehen mit Animationen und eine Begrüßung von mir. Und Foto.
 tags:
   - process
   - workflow
